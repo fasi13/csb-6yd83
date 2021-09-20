@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fasi13.github.io/csb-6yd83/static/css/main.1f384878.chunk.css",
+    "main.js": "https://fasi13.github.io/csb-6yd83/static/js/main.7a38de2e.chunk.js",
+    "main.js.map": "https://fasi13.github.io/csb-6yd83/static/js/main.7a38de2e.chunk.js.map",
+    "runtime-main.js": "https://fasi13.github.io/csb-6yd83/static/js/runtime-main.a3a6011b.js",
+    "runtime-main.js.map": "https://fasi13.github.io/csb-6yd83/static/js/runtime-main.a3a6011b.js.map",
+    "static/js/2.e519ac7d.chunk.js": "https://fasi13.github.io/csb-6yd83/static/js/2.e519ac7d.chunk.js",
+    "static/js/2.e519ac7d.chunk.js.map": "https://fasi13.github.io/csb-6yd83/static/js/2.e519ac7d.chunk.js.map",
+    "index.html": "https://fasi13.github.io/csb-6yd83/index.html",
+    "static/css/main.1f384878.chunk.css.map": "https://fasi13.github.io/csb-6yd83/static/css/main.1f384878.chunk.css.map",
+    "static/js/2.e519ac7d.chunk.js.LICENSE.txt": "https://fasi13.github.io/csb-6yd83/static/js/2.e519ac7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a6011b.js",
+    "static/js/2.e519ac7d.chunk.js",
+    "static/css/main.1f384878.chunk.css",
+    "static/js/main.7a38de2e.chunk.js"
+  ]
+}
